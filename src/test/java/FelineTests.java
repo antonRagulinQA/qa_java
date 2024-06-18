@@ -1,6 +1,4 @@
-import com.example.Animal;
 import com.example.Feline;
-import org.assertj.core.api.MatcherAssert;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.equalTo;
